@@ -1,5 +1,5 @@
 title: That Year in Film
-url: https://thatyearinfilm.com
+url: https://pod.raylyon.info
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 #download_url: "http://your.fancy.hosting/episodes"
@@ -12,7 +12,7 @@ url: https://thatyearinfilm.com
 
 email: pod@thatyearinfilm.com
 keywords: [octopod, podcast, magic]
-itunes_categories: [Movies]
+itunes_categories: [Technology]
 episodes_per_feed_page: 100
 
 player_theme: default # default | "default-dark" | legacy | minimal | republica
@@ -21,9 +21,9 @@ player_theme: default # default | "default-dark" | legacy | minimal | republica
 date_format: ordinal
 
 ### Rsync Deploy config: Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_host: user@host.org
+ssh_host: raylyon@docker01.lyon
 ssh_port: 22
-document_root: /path/to/your/htdocs/
+document_root: /home/raylyon/docker01-configs/apache-octopod/config/www/
 rsync_delete: true
 
 ### Twiter config, optional

@@ -1,6 +1,5 @@
 ---
-title: '1990: Oh Shit.'
-subtitle: We dive head first into the year of Ray's birth.
+title: '1991: The Fall of the Soviet Union!'
 layout: post
 author: Leslie, Jae, and Ray
 explicit: 'no'
@@ -20,7 +19,7 @@ contributors:
   - name: 'Ray Lyon'
   - uri: 'https://rayagainstthemachine.net'
   - email: 'ray@thatyearinmovies.com'
-
+  
 ---
 
 <!---
@@ -32,9 +31,4 @@ It is only necessary for hosting remotely.
 
 ## Shownotes and Links
 
-* Goodfellas
-* Ghost
-* Dances With Wolves
-* Home Alone
-* Total Recall \
-...and many more masterpieces!
+* Note
