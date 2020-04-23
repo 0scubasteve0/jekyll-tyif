@@ -39,10 +39,10 @@ license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 ### Feed links, optional
 itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
-# google_play_url: https://playmusic.app.goo.gl/...
+google_play_url: https://playmusic.app.goo.gl/...
 # bitlove_url: https://bitlove.org/myaccount
 # fyyd_url: https://fyyd.de/podcast/myaccount/myid
-# gpodder_url: https://gpodder.net/podcast/mypodcast
+gpodder_url: https://gpodder.net/podcast/mypodcast
 
 ### Additional Feeds, optional
 #  itunes: http://itunes.apple.com/de/podcast/podcast_name/id42424242
@@ -51,11 +51,11 @@ itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
 
 ### Flattr config, optional
 #flattr_uid: # Flattr will not be used unless this is set
-#flattr_button: compact # compact | default
-#flattr_mode: auto # auto | manual
-#flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
-#flattr_language: en_GB # available languages see https://api.flattr.com/rest/v2/languages.txt
-#flattr_category: audio # available categories see https://api.flattr.com/rest/v2/categories.txt
+flattr_button: compact # compact | default
+flattr_mode: auto # auto | manual
+flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
+flattr_language: en_GB # available languages see https://api.flattr.com/rest/v2/languages.txt
+flattr_category: audio # available categories see https://api.flattr.com/rest/v2/categories.txt
 
 ### Disqus comments
 #disqus_shortname: # Disqus will not be used unless this is set
