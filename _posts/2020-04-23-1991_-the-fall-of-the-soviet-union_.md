@@ -8,7 +8,7 @@ audio:
   mp3: episode0.mp3
 chapters:
 - 00:00:00.000 Intro.
-- 00:00:09.000 Outro.
+- 00:00:05.000 Outro.
 contributors:
   - name: 'Leslie Risak'
   - uri: 'http://leslierisak.com'
@@ -19,7 +19,7 @@ contributors:
   - name: 'Ray Lyon'
   - uri: 'https://rayagainstthemachine.net'
   - email: 'ray@thatyearinmovies.com'
-  
+
 ---
 
 <!---
@@ -31,4 +31,6 @@ It is only necessary for hosting remotely.
 
 ## Shownotes and Links
 
-* Note
+* What's new?
+* What a year!
+* What a movie!
