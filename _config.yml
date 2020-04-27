@@ -62,7 +62,7 @@ flattr_category: audio # available categories see https://api.flattr.com/rest/v2
 #disqus_developer: 0 # 1 | 0
 
 ### Isso comments
-use_isso: "no" # "no" | "yes"
+use_isso: "yes" # "no" | "yes"
 
 theme: jekyll-bootflat
 
