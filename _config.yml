@@ -4,7 +4,7 @@ url: https://pod.raylyon.info
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 #download_url: "http://your.fancy.hosting/episodes"
 subtitle: A year-by-year film discussion podcast.
-description: "THAT YEAR IN FILM dives deep through film's recent decades, exploring the box office legends and cult classics that defined their time. Join your hosts Leslie Risak, Jae Lee, and Ray Lyon as we discuss everything from tear-jerking monologues to the art of quality film explosions. We'll fight for our favorites, and in the end decide which movie rules as the ultimate film of its year."
+description: "THAT YEAR IN FILM dives deep through film's recent decades, exploring the box office legends and cult classics that defined their time. Join your hosts Leslie, Jae, and Ray as we discuss everything from tear-jerking monologues to the art of quality film explosions. We'll fight for our favorites, and in the end decide which movie rules as the ultimate film of its year."
 author: Rear Projection Productions
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
