@@ -4,9 +4,7 @@ layout: default
 navigation: 2
 ---
 
-# About TYIF
-
-Our show description perhaps goes here?
+![image-title-here](/img/group_photo.jpg){:class="img-responsive"}
 
 # The Hosts
 
