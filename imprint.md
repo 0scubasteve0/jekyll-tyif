@@ -1,7 +1,7 @@
 ---
-title: About
+title: Contact
 layout: default
-navigation: 1
+navigation: 2
 ---
 
 # About TYIF
