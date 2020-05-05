@@ -31,7 +31,7 @@ Jae has never seen The Godfather, and he's completely obsessed with all things r
 
 ### Ray Lyon
 
-Jae has never seen The Godfather, but he's completely obsessed with all things related to Christopher Nolan, Batman, the Marvel Cinematic Universe, and Star Wars. In his free time, he watches his favorite action movies over and over again, shoots film photos, and enjoys browsing through IMDBs technical specifications for every movie he's seen.
+Ray gave up his filmmaking dream long ago when he sold out to work in IT, but that doesn't stop him from putting his small-town film school education to use. Now living in New York, Ray is a lover Scorsese, The Cohen Brothers and Tom Cruise. His appreciation for classic storytelling and striking cinematography is only matched by his desire to hack The Matrix.  
 
 {:style="clear: left"}
 
